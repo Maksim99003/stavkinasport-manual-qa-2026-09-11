@@ -25,7 +25,7 @@
 
 ## Результат
 
-Подтверждено 5 уникальных дефектов: 3 High и 2 Medium. Critical-дефекты не выявлены. Подробности находятся в [bug-reports.md](bug-reports.md), [bug-reports.csv](bug-reports.csv) и [bug-reports.xlsx](bug-reports.xlsx).
+Подтверждено 5 уникальных дефектов: 3 High и 2 Medium. Critical-дефекты не выявлены. Подробности находятся в [Word-отчёте](manual-qa-report.docx), [bug-reports.md](bug-reports.md), [bug-reports.csv](bug-reports.csv) и [bug-reports.xlsx](bug-reports.xlsx).
 
 Ключевые проблемы: поиск не показывает результаты по заведомо существующему запросу; кнопка входа не открывает форму; выбранные букмекеры теряются при переходе на страницу сравнения.
 
