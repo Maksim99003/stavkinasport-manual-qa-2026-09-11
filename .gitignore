@@ -1,0 +1,10 @@
+*.inspect.ndjson
+evidence/compare-desktop-empty.png
+evidence/compare-desktop-selected.png
+evidence/compare-mobile-after.png
+evidence/compare-mobile-empty-confirmed.png
+evidence/compare-mobile-empty.png
+evidence/compare-mobile-selected.png
+evidence/login-desktop-after.png
+evidence/login-desktop-home-after.png
+evidence/login-mobile-after.png
