@@ -1,0 +1,23 @@
+URL: https://stavkinasport.com/kontakty/
+Viewport: 390x844
+[
+  {
+    "ariaLabel": null,
+    "ariaLabelledby": null,
+    "labels": [],
+    "name": "your-name"
+  },
+  {
+    "ariaLabel": null,
+    "ariaLabelledby": null,
+    "labels": [],
+    "name": "your-email"
+  },
+  {
+    "ariaLabel": null,
+    "ariaLabelledby": null,
+    "labels": [],
+    "name": "your-message"
+  }
+]
+Click on visible label "Ваш E-mail *": focused element remained BODY.
